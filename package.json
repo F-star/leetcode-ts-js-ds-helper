@@ -1,0 +1,8 @@
+{
+  "name": "leetcode-ts-js-ds-helper",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:F-star/leetcode-ts-js-ds-helper.git",
+  "author": "hhbuhuiai@163.com",
+  "license": "MIT"
+}
